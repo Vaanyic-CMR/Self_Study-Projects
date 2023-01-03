@@ -1,5 +1,5 @@
-### React Native Tutorial for Beginners - Build a React Native App
-## Programming with Mosh - Youtube
+## React Native Tutorial for Beginners - Build a React Native App
+### Programming with Mosh - Youtube
 
 Code produced by following along with the tutorial listed above.
 
